@@ -63,7 +63,7 @@ npm start
 
 ## ☁️ <a name="cloud"></a>Cloud platforms
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/callsmusic/remix)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Agora-forks/remix)
 
 ## ⚒ <a name="configuring"></a>Configuring
 
